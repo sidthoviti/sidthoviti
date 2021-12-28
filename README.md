@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidthoviti
+- 👋 Hi, I’m Thoviti Siddharth.
 - 👀 I’m interested in cybersecurity, machine learning, machine vision, web development and blockchain tech.
 - 🌱 I’m currently pursuing my masters research in Adversarial Machine Learning.
 - 💞️ I’m looking to collaborate on ...
